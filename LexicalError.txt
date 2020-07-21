@@ -1,0 +1,2 @@
+Lexical error list: 
+line 2:6 token recognition error at: '!'
